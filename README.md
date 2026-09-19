@@ -14,9 +14,6 @@
 
 *(Tampermonkey will automatically detect the userscript and offer to install it)*
 
-> 💡 If the link opens as raw text instead of installing, try this alternative:
-> **[→ Force Tampermonkey install](https://www.tampermonkey.net/script_installation.php#url=https://github.com/AdrienPlaza/Roblox-Friend-Manager-Pro/raw/refs/heads/main/RobloxFriendManagerPro.user.js)**
-
 ---
 
 ## 📖 About
