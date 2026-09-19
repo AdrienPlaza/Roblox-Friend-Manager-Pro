@@ -2,7 +2,7 @@
 
 > A powerful Tampermonkey userscript that adds an advanced GUI to **mass-manage, filter, export and delete your Roblox friends**, with bulk selection, keyboard shortcuts and a sleek modern interface.
 
-![Version](https://img.shields.io/badge/version-1-blue)
+![Version](https://img.shields.io/badge/version-1.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Roblox-red)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -10,9 +10,12 @@
 
 ## 📥 Download
 
-**[→ Install the script](https://raw.githubusercontent.com/AdrienPlaza/Roblox-Friend-Manager-Pro/main/RobloxFriendManagerPro.user.js)**
+**[→ Install the script](https://github.com/AdrienPlaza/Roblox-Friend-Manager-Pro/raw/refs/heads/main/RobloxFriendManagerPro.user.js)**
 
 *(Tampermonkey will automatically detect the userscript and offer to install it)*
+
+> 💡 If the link opens as raw text instead of installing, try this alternative:
+> **[→ Force Tampermonkey install](https://www.tampermonkey.net/script_installation.php#url=https://github.com/AdrienPlaza/Roblox-Friend-Manager-Pro/raw/refs/heads/main/RobloxFriendManagerPro.user.js)**
 
 ---
 
@@ -43,8 +46,8 @@
    - [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
    - [Firefox](https://addons.mozilla.org/firefox/addon/tampermonkey/)
    - [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
-2. Click **"Create a new script"** in the Tampermonkey dashboard.
-3. Paste the entire script content.
+2. Click on the **[→ Install the script](#-download)** link above. Tampermonkey should detect the userscript and offer to install it.
+3. (Manual method) Alternatively, open the [`RobloxFriendManagerPro.user.js`](./RobloxFriendManagerPro.user.js) file in this repo, click the **Raw** button, then paste the content into a new Tampermonkey script.
 4. Save with **Ctrl + S**.
 5. Go to [roblox.com](https://www.roblox.com) and make sure you're **logged in**.
 6. A red **🗑️ button** will appear at the bottom-right of the screen. Click it to open the manager.
@@ -193,6 +196,11 @@ Browsers block audio until you interact with the page. Click anywhere once on Ro
 
 **I disabled notifications but I still got one — why?**
 When you **re-enable** notifications, the script shows a small confirmation toast so you know it worked. That's the only exception.
+
+**The install link doesn't work, what do I do?**
+Two options:
+1. Use the **[Force Tampermonkey install](https://www.tampermonkey.net/script_installation.php#url=https://github.com/AdrienPlaza/Roblox-Friend-Manager-Pro/raw/refs/heads/main/RobloxFriendManagerPro.user.js)** link in the Download section.
+2. Open the [`RobloxFriendManagerPro.user.js`](./RobloxFriendManagerPro.user.js) file in this repo, click **Raw**, copy the code, then paste it in a new Tampermonkey script.
 
 ---
 
