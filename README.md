@@ -16,6 +16,14 @@
 
 ---
 
+## 📸 Preview
+
+![Roblox Friend Manager Pro - Main panel](./preview.png)
+
+> The main panel showing your friends list, live presence status, and all the bulk actions.
+
+---
+
 ## 📖 About
 
 **Roblox Friend Manager Pro** is a userscript that injects a custom control panel into the Roblox website. It gives you a full friend management dashboard right inside your browser.
